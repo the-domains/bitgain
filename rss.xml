@@ -4,7 +4,7 @@
         <description><![CDATA[Bitgain]]></description>
         <link>https://thegrid.ai/bitgain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 18:10:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitgain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<p>Hello World</p>]]></description>
             <link>https://thegrid.ai/bitgain/3abfc724-a36d-492a-89f5-2c69b0859ef6/index.html</link>
             <guid isPermaLink="false">3abfc724-a36d-492a-89f5-2c69b0859ef6</guid>
-            <pubDate>Wed, 30 Mar 2016 18:08:59 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 18:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
